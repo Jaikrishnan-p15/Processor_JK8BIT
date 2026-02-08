@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/VLSI/Processor_JK_8BIT/Processor_JK_8BIT.srcs/sources_1/new/ALU_8BIT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder8bit
+INFO: [VRFC 10-311] analyzing module subtractor8bit
+INFO: [VRFC 10-311] analyzing module multiplier8bit
+INFO: [VRFC 10-311] analyzing module divider8bit
+INFO: [VRFC 10-311] analyzing module ALU_8BIT
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/VLSI/Processor_JK_8BIT/Processor_JK_8BIT.srcs/sim_1/new/tb_alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/VLSI/Processor_JK_8BIT/Processor_JK_8BIT.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

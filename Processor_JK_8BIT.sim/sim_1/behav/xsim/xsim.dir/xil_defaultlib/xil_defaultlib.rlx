@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/VLSI/Processor_JK_8BIT/Processor_JK_8BIT.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/VLSI/Processor_JK_8BIT/Processor_JK_8BIT.srcs/sim_1/new/tb_alu.v,1770559607,verilog,,,,tb_alu,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/VLSI/Processor_JK_8BIT/Processor_JK_8BIT.srcs/sources_1/new/ALU_8BIT.v,1770557867,verilog,,C:/VLSI/Processor_JK_8BIT/Processor_JK_8BIT.srcs/sim_1/new/tb_alu.v,,ALU_8BIT;adder8bit;divider8bit;multiplier8bit;subtractor8bit,,,../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
