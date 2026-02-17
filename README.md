@@ -20,7 +20,7 @@ The heart of the CPU is ready. I designed a modular ALU capable of handling 8-bi
 
 ## 🛠️ Simulation Results
 Verified using a comprehensive Testbench covering 10+ corner cases including overflow and zero-division errors.
-*(You can upload your screenshot here)*
+
 
 ## 🔜 Next Steps (Phase 2)
 - [ ] Designing the 8x8 Register File (Dual Read Ports).
