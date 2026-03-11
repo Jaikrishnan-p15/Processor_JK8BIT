@@ -4,7 +4,7 @@
 **Tools:** Xilinx Vivado, Verilog HDL, GTKWave
 
 ## 📝 Project Overview
-I am building a custom 8-bit Processor from scratch based on a modified Harvard RISC architecture ("NITPY-8"). The goal is to understand computer architecture at the transistor/logic level, moving beyond abstract theory.
+I am building a custom 8-bit Processor from scratch based on a modified Harvard RISC architecture . The goal is to understand computer architecture at the transistor/logic level, moving beyond abstract theory.
 
 ## ⚙️ Phase 1: The Arithmetic Logic Unit (ALU)
 The heart of the CPU is ready. I designed a modular ALU capable of handling 8-bit arithmetic and logic operations with full flag support (Zero, Negative, Carry, Overflow).
